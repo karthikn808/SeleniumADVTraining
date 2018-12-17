@@ -22,6 +22,8 @@ public class NewTest {
 	  driver = new InternetExplorerDriver();*/
 	  driver.manage().window().maximize();
 	  Thread.sleep(3000);
+	  
+	  
   	}
 
   @AfterTest
